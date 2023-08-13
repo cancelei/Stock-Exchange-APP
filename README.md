@@ -31,8 +31,8 @@
 
 This project is a Stock Exchange App that allows users to search, view details and of stocks in real time. Eventually, the user can also add stocks to their favorites list and remove them from the list.
 
-LIVE PREVIEW: [Stock Exchange App](https://cancelei.github.io/Stock-Exchange-APP/#/)
-LIVE DEMO (2min) https://www.loom.com/share/4f4781d918614d4896ac662d73427a9c?sid=5e421654-6ac1-4691-a5dd-813f164d3205
+- LIVE PREVIEW: [Stock Exchange App](https://cancelei.github.io/Stock-Exchange-APP/#/)
+- [LIVE DEMO (2min)](https://www.loom.com/share/4f4781d918614d4896ac662d73427a9c?sid=5e421654-6ac1-4691-a5dd-813f164d3205)
 
 ## 🛠 Built With:<a name="built-with"></a>
 - React
