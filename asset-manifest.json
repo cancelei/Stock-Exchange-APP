@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Stock-Exchange-APP/static/css/main.243c2d40.css",
+    "main.js": "/Stock-Exchange-APP/static/js/main.9cba3345.js",
+    "static/js/787.46ce1ec7.chunk.js": "/Stock-Exchange-APP/static/js/787.46ce1ec7.chunk.js",
+    "index.html": "/Stock-Exchange-APP/index.html",
+    "main.243c2d40.css.map": "/Stock-Exchange-APP/static/css/main.243c2d40.css.map",
+    "main.9cba3345.js.map": "/Stock-Exchange-APP/static/js/main.9cba3345.js.map",
+    "787.46ce1ec7.chunk.js.map": "/Stock-Exchange-APP/static/js/787.46ce1ec7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.243c2d40.css",
+    "static/js/main.9cba3345.js"
+  ]
+}
