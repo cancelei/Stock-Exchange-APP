@@ -1,4 +1,5 @@
 import './displayStocks.css';
+import { BsFillArrowRightCircleFill } from 'react-icons/bs';
 import { useEffect, useState } from 'react';
 import { useDispatch, useSelector } from 'react-redux';
 import { Link } from 'react-router-dom';
@@ -17,7 +18,8 @@ export default function DisplayStocks() {
   }, [dispatch, stocks.length]);
 
   const filteredStocks = stocks.filter((stock) => stock.name
-    .toLowerCase().includes(searchStock.toLowerCase()));
+    .toLowerCase().includes(searchStock.toLowerCase())
+    || stock.symbol.toLowerCase().includes(searchStock.toLowerCase()));
 
   const middleIndex = Math.ceil(filteredStocks.length / 2); // Calculate the middle index
 
@@ -51,10 +53,13 @@ export default function DisplayStocks() {
                     {stock.symbol}
                     {' '}
                     -
+                    {' '}
                     {stock.price}
                     {' '}
                     Views:
                     {stock.views}
+                    {' '}
+                    <BsFillArrowRightCircleFill />
                   </button>
                 </Link>
               </li>
@@ -74,10 +79,13 @@ export default function DisplayStocks() {
                     {stock.symbol}
                     {' '}
                     -
+                    {' '}
                     {stock.price}
                     {' '}
                     Views:
                     {stock.views}
+                    {' '}
+                    <BsFillArrowRightCircleFill />
                   </button>
                 </Link>
               </li>
