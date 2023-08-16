@@ -142,6 +142,8 @@ If you like this project kindly leave a star!
 
 I am gratefull for Microverse.
 
+Credits to [Nelson Sakwa](https://www.behance.net/sakwadesignstudio) the [author of the original design](https://www.behance.net/gallery/31579789/Ballhead-App-(Free-PSDs)), in accordance with [Creative Commons License](https://creativecommons.org/licenses/).
+
 ## 📝 License <a name="license"></a>
 
 This project is [MIT](./LICENSE.md) licensed.
