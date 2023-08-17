@@ -1,6 +1,7 @@
 import React from 'react';
 import { render, screen } from '@testing-library/react';
 import { Provider } from 'react-redux';
+import { BrowserRouter } from 'react-router-dom';
 import configureStore from '../../redux/configureStore';
 import '@testing-library/jest-dom/extend-expect';
 import Homepage from '../Homepage';
@@ -8,7 +9,9 @@ import Homepage from '../Homepage';
 describe('Tests the home page', () => {
   const component = (
     <Provider store={configureStore}>
-      <Homepage />
+      <BrowserRouter>
+        <Homepage />
+      </BrowserRouter>
     </Provider>
   );
 
