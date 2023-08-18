@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Stock-Exchange-APP/static/css/main.243c2d40.css",
-    "main.js": "/Stock-Exchange-APP/static/js/main.7d8f7732.js",
+    "main.css": "/Stock-Exchange-APP/static/css/main.fa084eb0.css",
+    "main.js": "/Stock-Exchange-APP/static/js/main.ed53e2c4.js",
     "static/js/787.46ce1ec7.chunk.js": "/Stock-Exchange-APP/static/js/787.46ce1ec7.chunk.js",
     "index.html": "/Stock-Exchange-APP/index.html",
-    "main.243c2d40.css.map": "/Stock-Exchange-APP/static/css/main.243c2d40.css.map",
-    "main.7d8f7732.js.map": "/Stock-Exchange-APP/static/js/main.7d8f7732.js.map",
+    "main.fa084eb0.css.map": "/Stock-Exchange-APP/static/css/main.fa084eb0.css.map",
+    "main.ed53e2c4.js.map": "/Stock-Exchange-APP/static/js/main.ed53e2c4.js.map",
     "787.46ce1ec7.chunk.js.map": "/Stock-Exchange-APP/static/js/787.46ce1ec7.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.243c2d40.css",
-    "static/js/main.7d8f7732.js"
+    "static/css/main.fa084eb0.css",
+    "static/js/main.ed53e2c4.js"
   ]
 }
