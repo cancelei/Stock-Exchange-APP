@@ -1,0 +1,15 @@
+.list-group-item.even {
+  background-color: #3f62a4;
+}
+
+.list-group-item.odd {
+  background-color: #4369b2;
+}
+
+.stocks-btn {
+  background-color: transparent;
+  width: 100%;
+  height: 5rem;
+  color: #fff;
+  border: 0;
+}
